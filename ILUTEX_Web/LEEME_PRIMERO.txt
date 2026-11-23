@@ -1,0 +1,7 @@
+ILUTEX — VERSIÓN CON FOTOGRAFÍAS REALES
+
+1. Descomprimir la carpeta.
+2. Abrir ABRIR_PAGINA_SIN_INSTALAR.bat en Windows, o abrir dist/index.html.
+3. Para ver las fotografías se necesita Internet. Sin Internet aparecen los dibujos originales automáticamente.
+4. No se afirma que las fotografías sean trabajos propios de ILUTEX: son referencias visuales libres de Wikimedia Commons.
+5. Los formularios NO envían correos sin configuración; para uso público deben conectarse a un servidor autorizado.

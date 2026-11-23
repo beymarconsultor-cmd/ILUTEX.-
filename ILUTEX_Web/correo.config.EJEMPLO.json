@@ -1,0 +1,7 @@
+{
+  "servidor": "smtp.gmail.com",
+  "puerto": 465,
+  "usuario": "TU_CUENTA@gmail.com",
+  "contrasena_aplicacion": "CONTRASENA_DE_APLICACION_DE_16_CARACTERES",
+  "destinatario": "TU_CORREO@gmail.com"
+}
