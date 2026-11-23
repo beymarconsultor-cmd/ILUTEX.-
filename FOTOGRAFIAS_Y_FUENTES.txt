@@ -1,0 +1,18 @@
+FOTOGRAFÍAS REALES DE REFERENCIA — ILUTEX L.S.
+
+Las fotografías están alojadas en Wikimedia Commons (CC0/dominio público) y se cargan al abrir la web con Internet. No son fotografías de proyectos realizados por ILUTEX. Si no hay conexión, se muestran automáticamente las ilustraciones originales del prototipo.
+
+1. Instalaciones y subestación eléctrica: Wtshymanski, dominio público
+https://commons.wikimedia.org/wiki/File:Electrical_Substation.JPG
+2. Torre y montaje de antenas: Nikolai Twin, CC0
+https://commons.wikimedia.org/wiki/File:CellTower.jpg
+3. Tendidos y líneas eléctricas: Foto3821, CC0
+https://commons.wikimedia.org/wiki/File:Electric_transmission_power_tower.jpg
+4. Infraestructura de radio base, vista aérea: Wikideas1, CC0
+https://commons.wikimedia.org/wiki/File:Cell_tower_aerial.jpg
+5. Antenas de radio, detalle: Editor abcdef, CC0
+https://commons.wikimedia.org/wiki/File:Radio_tower_top_close.JPG
+
+Para que funcionen sin conexión, descargue las imágenes desde estas páginas y sustituya sus URL en dist/app.js por archivos ubicados en dist/assets/.
+
+No se ha activado el envío por correo. Se mantiene la configuración opcional existente, sin credenciales.
